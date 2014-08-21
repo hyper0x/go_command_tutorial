@@ -12,7 +12,7 @@ Golang command tutorial by Chinese.
 相关源码
 ===================
 
-本教程中会提及到一个名为```goc2p```的项目。该项目实际上是《Go并发编程实战》随书附带的示例项目。这本书中讲到的所有源码都在```goc2p```项目中。我最迟会在《Go并发编程实战》出版之时将[```goc2p```](https://github.com/hyper-carrot/goc2p)项目放出。
+本教程中会提及一个名为```goc2p```的项目。该项目实际上是《Go并发编程实战》随书附带的示例项目。这本书中讲到的所有源码都在```goc2p```项目中。我最迟会在《Go并发编程实战》出版之时将[```goc2p```](https://github.com/hyper-carrot/goc2p)项目放出。
 
 
 关于协议
