@@ -3,6 +3,7 @@ go_command_tutorial
 
 Golang command tutorial by Chinese.
 
+Base on Go 1.3.x
 
 本教程的由来
 ===================
