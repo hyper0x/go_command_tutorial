@@ -1,0 +1,9 @@
+{
+    "name": "Go命令教程",
+    "introduction": "带你玩儿转Go语言的命令和工具。",
+    "title": "go command tutorial",
+    "keywords": "golang",
+    "path": {
+        "toc": "catalog.md"
+    }
+}
