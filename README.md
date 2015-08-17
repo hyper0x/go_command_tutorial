@@ -11,7 +11,9 @@
 
 ## 相关源
 
-本教程在Github上的地址在[这里](https://github.com/hyper-carrot/go_command_tutorial)。如果你喜欢本教程，请不吝Star。如果你想共享一份力量，欢迎提交Pull Request。
+本教程在Github上的地址在[这里](https://github.com/hyper-carrot/go_command_tutorial)。如果你喜欢本教程，请不吝Star。如果你想贡献一份力量，欢迎提交Pull Request。
+
+针对Go 1.3和1.4版本的教程已被放入分支[go1.3](https://github.com/hyper-carrot/go_command_tutorial/tree/go1.3)。而主分支此后一段时间内会致力于针对Go 1.5进行更新。
 
 本教程中会提及一个名为```goc2p```的项目。该项目实际上是《Go并发编程实战》随书附带的示例项目。这本书中讲到的所有源码都在```goc2p```项目中。我已在《Go并发编程实战》出版之时将[```goc2p```](https://github.com/hyper-carrot/goc2p)项目放出。
 
@@ -24,4 +26,4 @@
 
 |系统|版本信息
 |---------|------
-|Go|1.3.x
+|Go|1.3+
