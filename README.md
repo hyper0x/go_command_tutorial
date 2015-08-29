@@ -22,8 +22,8 @@
 我希望这个项目中的内容永远是免费的。也就是说，任何组织和个人不应该出于商业目的而摘取其中的内容。更详细的条款请阅读本项目中的[LICENSE](https://github.com/hyper-carrot/go_command_tutorial/blob/master/LICENSE)文件。
 
 ## 版本信息
-书中演示代码基于以下版本：
+书中内容及演示代码基于以下版本：
 
-|系统|版本信息
+| 系统      | 版本信息
 |---------|------
-|Go|1.3+
+|Golang   |1.3(will be abandoned) + 1.5(in prograss)
