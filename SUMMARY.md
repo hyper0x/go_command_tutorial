@@ -3,7 +3,7 @@
   - [go install](0.2.md)
   - [go get](0.3.md)
   - [go clean](0.4.md)
-  - [godoc](0.5.md)
+  - [go doc与godoc](0.5.md)
   - [go run](0.6.md)
   - [go test](0.7.md)
   - [go list](0.8.md)
