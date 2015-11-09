@@ -7,7 +7,7 @@
   - [go run](0.6.md)
   - [go test](0.7.md)
   - [go list](0.8.md)
-  - [go fmt与go tool fix](0.10.md)
+  - [go fix与go tool fix](0.10.md)
   - [go vet与go tool vet](0.11.md)
   - [go tool pprof](0.12.md)
   - [go tool cgo](0.13.md)
