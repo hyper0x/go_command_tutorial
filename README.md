@@ -1,4 +1,21 @@
-# GO 命令教程
+# Go 命令教程
+## 目录
+
+ - [标准命令详解](https://github.com/hyper-carrot/go_command_tutorial/blob/master/0.0.md)
+ - [go build](https://github.com/hyper-carrot/go_command_tutorial/blob/master/0.1.md)
+ - [go install](https://github.com/hyper-carrot/go_command_tutorial/blob/master/0.2.md)
+ - [go get](https://github.com/hyper-carrot/go_command_tutorial/blob/master/0.3.md)
+ - [go clean](https://github.com/hyper-carrot/go_command_tutorial/blob/master/0.4.md)
+ - [go doc与godoc](https://github.com/hyper-carrot/go_command_tutorial/blob/master/0.5.md)
+ - [go run](https://github.com/hyper-carrot/go_command_tutorial/blob/master/0.6.md)
+ - [go test](https://github.com/hyper-carrot/go_command_tutorial/blob/master/0.7.md)
+ - [go list](https://github.com/hyper-carrot/go_command_tutorial/blob/master/0.8.md)
+ - [go fmt与gofmt](https://github.com/hyper-carrot/go_command_tutorial/blob/master/0.9.md)
+ - [go fix与go tool fix](https://github.com/hyper-carrot/go_command_tutorial/blob/master/0.10.md)
+ - [go vet与go tool vet](https://github.com/hyper-carrot/go_command_tutorial/blob/master/0.11.md)
+ - [go tool pprof](https://github.com/hyper-carrot/go_command_tutorial/blob/master/0.12.md)
+ - [go tool cgo](https://github.com/hyper-carrot/go_command_tutorial/blob/master/0.13.md)
+ - [go env](https://github.com/hyper-carrot/go_command_tutorial/blob/master/0.14.md)
 
 ## 作者介绍
 
