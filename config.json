@@ -1,9 +1,7 @@
 {
-    "name": "Go命令教程",
-    "introduction": "带你玩儿转Go语言的命令和工具。",
-    "title": "go command tutorial",
-    "keywords": "golang",
-    "path": {
-        "toc": "catalog.md"
-    }
+    "name": "GO 命令教程",
+    "introduction":"这份Go命令教程原先是我著的图书《Go并发编程实战》中的一部分。这部分内容与并发编程的关系不大，故被砍掉。但是它是有价值的，也算是我对Go语言官方提供的标准命令的一个学习笔记。所以，我觉得应该把它做成免费资源分享给大家。",
+     "path": {
+        "toc": "SUMMARY.md"
+        }
 }

@@ -5,7 +5,7 @@
   - 0.2 [go install](0.2.md)
   - 0.3 [go get](0.3.md)
   - 0.4 [go clean](0.4.md)
-  - 0.5 [godoc](0.5.md)
+  - 0.5 [go doc与godoc](0.5.md)
   - 0.6 [go run](0.6.md)
   - 0.7 [go test](0.7.md)
   - 0.8 [go list](0.8.md)
