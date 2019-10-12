@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Go 命令教程</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <!-- 在 GitHub 上编辑 -->
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <!-- 自定义样式 -->
+  <style>
+    .sidebar li>p a {
+      font-weight: 700;
+    }
+    .sidebar ul p.active>a {
+      border-right: 2px solid;
+      color: var(--theme-color,#42b983);
+    }
+  </style>
+  <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'Go 命令教程',
+      repo: 'hyper0x/go_command_tutorial',
+      loadSidebar: true,
+      auto2top: true,
+      // 全文搜索配置
+      search: {
+        paths: 'auto', // or 'auto'
+        placeholder: '输入关键词搜索',
+        noData: '找不到结果'
+      },
+      pagination: {
+        previousText: '上一节',
+        nextText: '下一节',
+        crossChapter: false
+      },
+      plugins: [
+        EditOnGithubPlugin.create(
+          'https://github.com/hyper0x/go_command_tutorial/blob/master/',
+          undefined,
+          '在 GitHub 上编辑本页'
+        ),
+        function(hook) {
+          var footer = [
+            '<footer>',
+            '<span>Powered by <a href="https://github.com/docsifyjs/docsify" target="_blank">docsify</a>.</span>',
+            '</footer>'
+          ].join('');
+
+          hook.afterEach(function(html) {
+            return html + footer;
+          });
+        }
+      ]
+    }
+  </script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <!-- 语言高亮 -->
+  <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
+  <!-- 全文搜索 -->
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <!-- emoji 支持 -->
+  <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
+  <!-- 复制到剪贴板 -->
+  <script src="//unpkg.com/docsify-copy-code"></script>
+  <!-- 图片缩放 -->
+  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
+  <!-- 分页 -->
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+</body>
+</html>
