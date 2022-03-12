@@ -28,4 +28,4 @@
 
 | 系统      | 版本信息
 |---------|------
-|Golang   |1.3(will be abandoned) + 1.5(in prograss)
+|Golang   |1.3(will be abandoned) + 1.5(in progress)
